@@ -16,9 +16,9 @@ export const headerMenu = [
     }
 ];
 
-export const footerMenu = [
-    { name: 'Style Guide', link: '/style-guide' },
-];
+// export const footerMenu = [
+//     { name: 'Style Guide', link: '/style-guide' },
+// ];
 
 export const legalMenu = [
     { name: 'Privacy Policy', link: '/legal/privacy-policy' },
