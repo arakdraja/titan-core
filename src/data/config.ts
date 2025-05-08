@@ -15,7 +15,7 @@ export const siteConfig = {
 export const SEO = {
   Separator: '|',
   SiteName: 'CSIRT ISH',
-  defaultDescription: 'Cyber Security Incident Response Team (CSIRT) ISH',
+  defaultDescription: 'Computer Security Incident Response Team (CSIRT) ISH',
 };
   
 export const blogSetting = {
