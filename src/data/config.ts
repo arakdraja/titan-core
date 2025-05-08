@@ -11,11 +11,9 @@ export const siteConfig = {
       Location: 'Jakarta',
   }
 };
-
 export const themeSetting = {
-  theme: 'zeus' // Choose one of the 10 available themes
+  theme: 'ares' // Choose one of the 10 available themes
 };
-
 export const SEO = {
   Separator: '|',
   SiteName: 'CSIRT ISH',
