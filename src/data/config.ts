@@ -12,6 +12,10 @@ export const siteConfig = {
   }
 };
 
+export const themeSetting = {
+  theme: 'zeus' // Choose one of the 10 available themes
+};
+
 export const SEO = {
   Separator: '|',
   SiteName: 'CSIRT ISH',
