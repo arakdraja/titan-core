@@ -13,4 +13,5 @@ collections:
 media_folder: "src/assets/images" # Location where files will be stored in the repo
 public_folder: "src/assets/images" # The src attribute for uploaded media
 backend:
-  name: csirt-cms
+  name: git-gateway
+  branch : master
