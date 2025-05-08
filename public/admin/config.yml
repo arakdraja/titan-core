@@ -13,9 +13,9 @@ collections:
 media_folder: "src/assets/images" # Location where files will be stored in the repo
 public_folder: "src/assets/images" # The src attribute for uploaded media
 backend:
-  name: git-gateway
-  branch : master
-  # name: github
-  # repo: arakdraja/titan-core # Path to your GitHub repository
-  # # optional, defaults to master
-  # branch: main
+  # name: git-gateway
+  # branch : master
+  name: github
+  repo: arakdraja/titan-core # Path to your GitHub repository
+  # optional, defaults to master
+  branch: main
